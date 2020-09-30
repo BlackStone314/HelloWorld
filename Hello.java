@@ -3,5 +3,7 @@ public class Hello{
         //Use a comment like this to write your name!
         //Like this: Ryo
         //Like this: Peter Sheng
+        //This is a comment
+        System.out.println("Hello");
     }
 }
